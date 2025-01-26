@@ -14,7 +14,7 @@ export default function messageAiBox() {
         />
         <div>
           <h2 className="font-bold">You</h2>
-          <p>kewajiban menunaikan zakat dalam hadits</p>
+          <p>Kewajiban menunaikan zakat dalam hadits</p>
         </div>
       </div>
       <div className="flex  gap-5">
