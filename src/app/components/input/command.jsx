@@ -27,6 +27,7 @@ export default function command() {
       </div>
       <p className="text-neutral-500 text-xs text-center">
         Developed by <b>Mohammad Sahrullah,</b> Using Next.js and Tailwind CSS
+        with ❤️
       </p>
     </div>
   );
